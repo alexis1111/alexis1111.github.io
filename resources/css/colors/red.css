@@ -1,0 +1,67 @@
+
+/* 
+***** body  *****
+*/
+body {
+  background-color: #eae8e7;
+  color: #767270;
+}
+
+/* 
+***** Sidebar  *****
+*/
+.sidebar {
+  color: #ffffff;
+  background-color: #e74c3c;
+  
+}
+.sidebar .heading nav .button-collapse i {
+  background-color: #e74c3c;
+}
+.sidebar .heading nav .side-nav h3 {
+  color: #e74c3c;
+}
+.sidebar .heading nav .side-nav li a:hover {
+  color: #e74c3c;
+}
+.sidebar .heading nav .side-nav li:hover {
+  background-color: transparent !important;
+}
+
+.sidebar .info {
+  border-bottom: 1px solid #c83c2e;
+}
+
+.sidebar .skill-line .progress {
+  background-color: #c83c2e;
+}
+.sidebar .skill-line .determinate {
+  background-color: #ffffff;
+}
+
+/* 
+***** Sections *****
+*/
+
+.section .section-wrapper {
+  background-color: #ffffff;
+}
+
+/*
+***** Work Experience  *****
+*/
+.custom-content-wrapper {
+  border-bottom: 1px solid #bdbdbd;
+}
+
+.custom-content-wrapper span {
+  color: #e74c3c;
+}
+
+/*
+*****  Interests  *****
+*/
+
+.interests ul li .fa {
+  color: #e74c3c;
+}
